@@ -1,8 +1,5 @@
 Hello World!
 
-abcd
-1234
-
 this is new from me
 do not change this line, but i did change it tho
 lets try again!
